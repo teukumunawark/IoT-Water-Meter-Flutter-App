@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158180410646",
+    "project_id": "rd-iot-water-meter",
+    "storage_bucket": "rd-iot-water-meter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158180410646:android:233f2fe7700c650a1dbc37",
+        "android_client_info": {
+          "package_name": "com.example.iot_water_meter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkc7ZfgelML2nsoHhiJxQKs6PwpanTxzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
